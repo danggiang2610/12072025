@@ -5,9 +5,9 @@
         "type":"default",
         "text":"12.07.2019 - 08.2025 </br> Chúng ta đã đi cùng nhau!",
         "asset": {
-            "media":"/app-static/static/img/Anniversary.jpg",
+            "media":"/12072025/img/Anniversary.jpg",
             "credit":"",
-            "caption":"<a href=\"/app-static/static/img/Anniversary.jpg\" title=\"Kỉ niệm\">Kỉ niệm</a>"
+            "caption":"<a href=\"/12072025/img/Anniversary.jpg\" title=\"Kỉ niệm\">Kỉ niệm</a>"
         },
         "date": [
             {
@@ -18,9 +18,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/app-static/static/img/tl-0.jpg",
+                    "media":"/12072025/img/tl-0.jpg",
                     "credit":"",
-                    "caption":"<a href=\"/app-static/static/img/tl-0.jpg\" title=\"Lần đầu chụp chung\">Lần đầu chụp chung</a>"
+                    "caption":"<a href=\"/12072025/img/tl-0.jpg\" title=\"Lần đầu chụp chung\">Lần đầu chụp chung</a>"
                 }
             },
             {
@@ -31,9 +31,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/app-static/static/img/tl-01.jpg",
+                    "media":"/12072025/img/tl-01.jpg",
                     "credit":"",
-                    "caption":"<a href=\"/app-static/static/img/tl-01.jpg\" title=\"Ngày trở lại trường\">Ngày trở lại trường</a>"
+                    "caption":"<a href=\"/12072025/img/tl-01.jpg\" title=\"Ngày trở lại trường\">Ngày trở lại trường</a>"
                 }
             },
             {
@@ -44,9 +44,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/app-static/static/img/tl-02.jpg",
+                    "media":"/12072025/img/tl-02.jpg",
                     "credit":"",
-                    "caption":"<a href=\"/app-static/static/img/tl-02.jpg\" title=\"Lần đầu em đến nhà anh\">Lần đầu em đến nhà anh</a>"
+                    "caption":"<a href=\"/12072025/img/tl-02.jpg\" title=\"Lần đầu em đến nhà anh\">Lần đầu em đến nhà anh</a>"
                 }
             },
             {
@@ -57,9 +57,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/app-static/static/img/tl-03.jpg",
+                    "media":"/12072025/img/tl-03.jpg",
                     "credit":"",
-                    "caption":"<a href=\"/app-static/static/img/tl-03.jpg\" title=\"Đi tà tưa cùng nhau\">Đi tà tưa cùng nhau</a>"
+                    "caption":"<a href=\"/12072025/img/tl-03.jpg\" title=\"Đi tà tưa cùng nhau\">Đi tà tưa cùng nhau</a>"
                 }
             },
             {
@@ -70,9 +70,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/app-static/static/img/tl-04.jpg",
+                    "media":"/12072025/img/tl-04.jpg",
                     "credit":"",
-                    "caption":"<a href=\"/app-static/static/img/tl-04.jpg\" title=\"Lần đầu đi siêu thị cùng nhau\">Lần đầu đi siêu thị cùng nhau</a>"
+                    "caption":"<a href=\"/12072025/img/tl-04.jpg\" title=\"Lần đầu đi siêu thị cùng nhau\">Lần đầu đi siêu thị cùng nhau</a>"
                 }
             },
             {
@@ -83,9 +83,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/app-static/static/img/tl-05.jpg",
+                    "media":"/12072025/img/tl-05.jpg",
                     "credit":"",
-                    "caption":"<a href=\"/app-static/static/img/tl-05.jpg\" title=\"Đi tắm hồ với nhau\">Đi tắm hồ với nhau</a>"
+                    "caption":"<a href=\"/12072025/img/tl-05.jpg\" title=\"Đi tắm hồ với nhau\">Đi tắm hồ với nhau</a>"
                 }
             },
             {
@@ -96,9 +96,9 @@
                 "tag":"",
                 "classname":"",
                 "asset": {
-                    "media":"/app-static/static/img/tl-06.jpg",
+                    "media":"/12072025/img/tl-06.jpg",
                     "credit":"",
-                    "caption":"<a href=\"/app-static/static/img/tl-06.jpg\" title=\"Chụp ảnh kỷ yếu với nhau\">Chụp ảnh kỷ yếu với nhau</a>"
+                    "caption":"<a href=\"/12072025/img/tl-06.jpg\" title=\"Chụp ảnh kỷ yếu với nhau\">Chụp ảnh kỷ yếu với nhau</a>"
                 }
             },
             {
@@ -109,9 +109,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-07.jpg",
+                    "media": "/12072025/img/tl-07.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-07.jpg\" title=\"Đi chơi cùng với lớp\">Đi chơi cùng với lớp</a>"
+                    "caption": "<a href=\"/12072025/img/tl-07.jpg\" title=\"Đi chơi cùng với lớp\">Đi chơi cùng với lớp</a>"
                 }
             },
             {
@@ -122,9 +122,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-08.jpg",
+                    "media": "/12072025/img/tl-08.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-08.jpg\" title=\"Lần đầu ngắm pháo hoa cùng nhau\">Lần đầu ngắm pháo hoa cùng nhau</a>"
+                    "caption": "<a href=\"/12072025/img/tl-08.jpg\" title=\"Lần đầu ngắm pháo hoa cùng nhau\">Lần đầu ngắm pháo hoa cùng nhau</a>"
                 }
             },
             {
@@ -135,9 +135,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-09.jpg",
+                    "media": "/12072025/img/tl-09.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-09.jpg\" title=\"Thêm 1 năm chúng ta có thể đón tết cùng nhau\">Thêm 1 năm chúng ta có thể đón tết cùng nhau</a>"
+                    "caption": "<a href=\"/12072025/img/tl-09.jpg\" title=\"Thêm 1 năm chúng ta có thể đón tết cùng nhau\">Thêm 1 năm chúng ta có thể đón tết cùng nhau</a>"
                 }
             },
             {
@@ -148,9 +148,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-10.jpg",
+                    "media": "/12072025/img/tl-10.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-10.jpg\" title=\"Hình này không nhớ sao về quê ở\">Hình này không nhớ sao về quê ở</a>"
+                    "caption": "<a href=\"/12072025/img/tl-10.jpg\" title=\"Hình này không nhớ sao về quê ở\">Hình này không nhớ sao về quê ở</a>"
                 }
             },
             {
@@ -161,9 +161,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-11.jpg",
+                    "media": "/12072025/img/tl-11.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-11.jpg\" title=\"Đón sinh nhật cùng em !\">Đón sinh nhật cùng em !</a>"
+                    "caption": "<a href=\"/12072025/img/tl-11.jpg\" title=\"Đón sinh nhật cùng em !\">Đón sinh nhật cùng em !</a>"
                 }
             },
             {
@@ -174,9 +174,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-12.jpg",
+                    "media": "/12072025/img/tl-12.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-12.jpg\" title=\"Năm mới cùng em\">Năm mới cùng em</a>"
+                    "caption": "<a href=\"/12072025/img/tl-12.jpg\" title=\"Năm mới cùng em\">Năm mới cùng em</a>"
                 }
             },
             {
@@ -187,9 +187,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-13.jpg",
+                    "media": "/12072025/img/tl-13.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-13.jpg\" title=\"Trở lại thành phố sau khi ăn tết\">Trở lại thành phố sau khi ăn tết</a>"
+                    "caption": "<a href=\"/12072025/img/tl-13.jpg\" title=\"Trở lại thành phố sau khi ăn tết\">Trở lại thành phố sau khi ăn tết</a>"
                 }
             },
             {
@@ -200,9 +200,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-13.jpg",
+                    "media": "/12072025/img/tl-13.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-13.jpg\" title=\"Trở lại thành phố sau khi ăn tết\">Trở lại thành phố sau khi ăn tết</a>"
+                    "caption": "<a href=\"/12072025/img/tl-13.jpg\" title=\"Trở lại thành phố sau khi ăn tết\">Trở lại thành phố sau khi ăn tết</a>"
                 }
             },
             {
@@ -213,9 +213,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-14.jpg",
+                    "media": "/12072025/img/tl-14.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-14.jpg\" title=\"Lần đầu đi Vũng Tàu với nhau\">Lần đầu đi Vũng Tàu với nhau</a>"
+                    "caption": "<a href=\"/12072025/img/tl-14.jpg\" title=\"Lần đầu đi Vũng Tàu với nhau\">Lần đầu đi Vũng Tàu với nhau</a>"
                 }
             },
             {
@@ -226,9 +226,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-14.jpg",
+                    "media": "/12072025/img/tl-14.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-14.jpg\" title=\"Lần đầu đi Vũng Tàu với nhau\">Lần đầu đi Vũng Tàu với nhau</a>"
+                    "caption": "<a href=\"/12072025/img/tl-14.jpg\" title=\"Lần đầu đi Vũng Tàu với nhau\">Lần đầu đi Vũng Tàu với nhau</a>"
                 }
             },
             {
@@ -239,9 +239,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-15.jpg",
+                    "media": "/12072025/img/tl-15.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-15.jpg\" title=\"Năm nay đón sinh nhật trễ rồi\">Năm nay đón sinh nhật trễ rồi</a>"
+                    "caption": "<a href=\"/12072025/img/tl-15.jpg\" title=\"Năm nay đón sinh nhật trễ rồi\">Năm nay đón sinh nhật trễ rồi</a>"
                 }
             },
             {
@@ -252,9 +252,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-16.jpg",
+                    "media": "/12072025/img/tl-16.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-16.jpg\" title=\"Cùng em đón năm mới lần thứ 4\">Cùng em đón năm mới lần thứ 4</a>"
+                    "caption": "<a href=\"/12072025/img/tl-16.jpg\" title=\"Cùng em đón năm mới lần thứ 4\">Cùng em đón năm mới lần thứ 4</a>"
                 }
             },
             {
@@ -265,9 +265,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-17.jpg",
+                    "media": "/12072025/img/tl-17.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-17.jpg\" title=\"Đi du lịch năm mới cùng em\">Đi du lịch năm mới cùng em</a>"
+                    "caption": "<a href=\"/12072025/img/tl-17.jpg\" title=\"Đi du lịch năm mới cùng em\">Đi du lịch năm mới cùng em</a>"
                 }
             },
             {
@@ -278,9 +278,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-18.jpg",
+                    "media": "/12072025/img/tl-18.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-18.jpg\" title=\"Lại la cà đêm khuya rồi\">Lại la cà đêm khuya rồi</a>"
+                    "caption": "<a href=\"/12072025/img/tl-18.jpg\" title=\"Lại la cà đêm khuya rồi\">Lại la cà đêm khuya rồi</a>"
                 }
             },
             {
@@ -291,9 +291,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-19.jpg",
+                    "media": "/12072025/img/tl-19.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-19.jpg\" title=\"Dự lễ tốt nghiệp của em\">Dự lễ tốt nghiệp của em</a>"
+                    "caption": "<a href=\"/12072025/img/tl-19.jpg\" title=\"Dự lễ tốt nghiệp của em\">Dự lễ tốt nghiệp của em</a>"
                 }
             },
             {
@@ -304,9 +304,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-20.jpg",
+                    "media": "/12072025/img/tl-20.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-20.jpg\" title=\"Đi chơi giáng sinh\">Đi chơi giáng sinh</a>"
+                    "caption": "<a href=\"/12072025/img/tl-20.jpg\" title=\"Đi chơi giáng sinh\">Đi chơi giáng sinh</a>"
                 }
             },
             {
@@ -317,9 +317,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-21.jpg",
+                    "media": "/12072025/img/tl-21.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-21.jpg\" title=\"Em đến dự tốt nghiệp của anh\">Em đến dự tốt nghiệp của anh</a>"
+                    "caption": "<a href=\"/12072025/img/tl-21.jpg\" title=\"Em đến dự tốt nghiệp của anh\">Em đến dự tốt nghiệp của anh</a>"
                 }
             },
             {
@@ -330,9 +330,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-22.jpg",
+                    "media": "/12072025/img/tl-22.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-22.jpg\" title=\"Cùng em đón năm mới lần thứ 6\">Cùng em đón năm mới lần thứ 6</a>"
+                    "caption": "<a href=\"/12072025/img/tl-22.jpg\" title=\"Cùng em đón năm mới lần thứ 6\">Cùng em đón năm mới lần thứ 6</a>"
                 }
             },
             {
@@ -343,9 +343,9 @@
                 "tag": "",
                 "classname": "",
                 "asset": {
-                    "media": "/app-static/static/img/tl-23.jpg",
+                    "media": "/12072025/img/tl-23.jpg",
                     "credit": "",
-                    "caption": "<a href=\"/app-static/static/img/tl-23.jpg\" title=\"Đi chơi công viên nước cùng nhau\">Đi chơi công viên nước cùng nhau</a>"
+                    "caption": "<a href=\"/12072025/img/tl-23.jpg\" title=\"Đi chơi công viên nước cùng nhau\">Đi chơi công viên nước cùng nhau</a>"
                 }
             },
             {
