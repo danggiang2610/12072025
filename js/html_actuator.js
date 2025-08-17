@@ -131,15 +131,20 @@ HTMLActuator.prototype.message = function (won) {
     retryBtn.textContent = 'Đi tiếp thôi nào';
     retryBtn.setAttribute("href", "/12072025/timeline.html");
 
-    // Bắt cả touchend lẫn click cho chắc trên iOS/Android
     const go = (e) => {
       if (e) { e.preventDefault(); e.stopPropagation(); }
+      clearTimeout(autoRedirect); // Hủy tự động nếu người dùng bấm
       window.location.assign('/12072025/timeline.html');
     };
+
     retryBtn.addEventListener('touchend', go, { passive: false });
     retryBtn.addEventListener('click', go, false);
-  }
 
+    // 👉 Tự động chuyển sau 5 giây nếu không bấm
+    const autoRedirect = setTimeout(() => {
+      window.location.assign('/12072025/timeline.html');
+    }, 5000);
+  }
   //this.clearContainer(this.sharingContainer);
   //this.sharingContainer.appendChild(this.scoreTweetButton());
   //twttr.widgets.load();
