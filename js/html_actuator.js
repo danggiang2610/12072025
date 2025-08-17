@@ -143,7 +143,7 @@ HTMLActuator.prototype.message = function (won) {
     // 👉 Tự động chuyển sau 5 giây nếu không bấm
     const autoRedirect = setTimeout(() => {
       window.location.assign('/12072025/timeline.html');
-    }, 5000);
+    }, 10000);
   }
   //this.clearContainer(this.sharingContainer);
   //this.sharingContainer.appendChild(this.scoreTweetButton());
