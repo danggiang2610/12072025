@@ -125,7 +125,12 @@ HTMLActuator.prototype.message = function (won) {
   this.messageContainer.getElementsByTagName("p")[0].textContent = message;
   if (won)
   {
-	this.messageContainer.getElementsByClassName("lower")[0].getElementsByClassName("retry-button")[0].textContent = 'Đi tiếp thôi nào';
+    var retryBtn = this.messageContainer
+      .getElementsByClassName("lower")[0]
+      .getElementsByClassName("retry-button")[0];
+
+    retryBtn.textContent = 'Đi tiếp thôi nào';
+    retryBtn.setAttribute("href", "/12072025/timeline.html");
   }
 
   //this.clearContainer(this.sharingContainer);

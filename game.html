@@ -41,7 +41,7 @@
       <div class="game-message">
         <p></p>
         <div class="lower">
-          <a class="retry-button">Chơi lại đi bà 😜</a>
+          <a href="/12072025/game.html" class="retry-button">Chơi lại đi bà 😜</a>
           <div class="score-sharing"></div>
         </div>
       </div>
@@ -91,25 +91,6 @@
         }
       }
     });
-    document.addEventListener('DOMContentLoaded', function () {
-      var board = document.querySelector('.game-container');
-      var hamm = Hammer(board, {
-        prevent_default: true,
-        drag_lock_to_axis: true,
-        drag_block_horizontal: true,
-        drag_block_vertical: true,
-        swipe_velocity: 0.2,
-        drag_min_distance: 10
-      });
-
-      // map swipe -> move của 2048 (0=up,1=right,2=down,3=left)
-      var input = window.inputManager || new KeyboardInputManager();
-      hamm.on('swipeleft',  function(){ input.emit('move', 3); });
-      hamm.on('swiperight', function(){ input.emit('move', 1); });
-      hamm.on('swipeup',    function(){ input.emit('move', 0); });
-      hamm.on('swipedown',  function(){ input.emit('move', 2); });
-    });
-
   </script>
 </body>
 </html>
