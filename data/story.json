@@ -1,0 +1,366 @@
+{
+    "timeline":
+    {
+        "headline":"Hành trình của chúng ta",
+        "type":"default",
+        "text":"12.07.2019 - 08.2025 </br> Chúng ta đã đi cùng nhau!",
+        "asset": {
+            "media":"/app-static/static/img/Anniversary.jpg",
+            "credit":"",
+            "caption":"<a href=\"/app-static/static/img/Anniversary.jpg\" title=\"Kỉ niệm\">Kỉ niệm</a>"
+        },
+        "date": [
+            {
+                "startDate":"2019,08,12,00,00,00",
+                "endDate":"2019,08,12,00,00,00",
+                "headline":"Lần đầu chung khung hình",
+                "text":"Đó là lần đầu tiên chúng ta chụp chung một bức ảnh, không còn chỉ là bạn bè nữa mà đã là người yêu. Khi ấy cả hai vẫn còn đôi chút ngại ngùng, nhưng trong tim lại dâng trào niềm hạnh phúc.</br>",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"/app-static/static/img/tl-0.jpg",
+                    "credit":"",
+                    "caption":"<a href=\"/app-static/static/img/tl-0.jpg\" title=\"Lần đầu chụp chung\">Lần đầu chụp chung</a>"
+                }
+            },
+            {
+                "startDate":"2019,10,19,00,00,00",
+                "endDate":"2019,10,19,00,00,00",
+                "headline":"Ngày trở lại trường",
+                "text":"Đó là ngày mà chúng ta cùng nhau trở lại trường học, nơi bắt đầu mọi kỷ niệm đẹp thời học sinh.</br>",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"/app-static/static/img/tl-01.jpg",
+                    "credit":"",
+                    "caption":"<a href=\"/app-static/static/img/tl-01.jpg\" title=\"Ngày trở lại trường\">Ngày trở lại trường</a>"
+                }
+            },
+            {
+                "startDate":"2019,10,20,00,00,00",
+                "endDate":"2019,10,20,00,00,00",
+                "headline":"Lần đầu em đến nhà anh",
+                "text":"Đó là lần đầu tiên em đến nhà anh, tuy đi cùng nhóm bạn nhưng đây là cũng được tính là lần đâu anh dẫn người yêu về nhà 😂.</br>",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"/app-static/static/img/tl-02.jpg",
+                    "credit":"",
+                    "caption":"<a href=\"/app-static/static/img/tl-02.jpg\" title=\"Lần đầu em đến nhà anh\">Lần đầu em đến nhà anh</a>"
+                }
+            },
+            {
+                "startDate":"2019,11,26,00,00,00",
+                "endDate":"2019,11,26,00,00,00",
+                "headline":"Đi tà tưa cùng nhau",
+                "text":"Hình như đi uống trà sữa của quán nào khai trương mà anh quên rồi.</br>",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"/app-static/static/img/tl-03.jpg",
+                    "credit":"",
+                    "caption":"<a href=\"/app-static/static/img/tl-03.jpg\" title=\"Đi tà tưa cùng nhau\">Đi tà tưa cùng nhau</a>"
+                }
+            },
+            {
+                "startDate":"2020,01,28,00,00,00",
+                "endDate":"2020,01,28,00,00,00",
+                "headline":"Lần đầu đi siêu thị cùng nhau",
+                "text":"Lần đầu đi siêu thị cùng nhau cũng là lần đầu đi chơi xa. Cũng là năm đầu đón tết cùng nhau.</br>",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"/app-static/static/img/tl-04.jpg",
+                    "credit":"",
+                    "caption":"<a href=\"/app-static/static/img/tl-04.jpg\" title=\"Lần đầu đi siêu thị cùng nhau\">Lần đầu đi siêu thị cùng nhau</a>"
+                }
+            },
+            {
+                "startDate":"2020,06,16,00,00,00",
+                "endDate":"2020,06,16,00,00,00",
+                "headline":"Đi tắm hồ với nhau",
+                "text":"Lần đầu đi tắm hồ với nhau mà tìm không thấy ảnh chụp riêng 😂.</br>",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"/app-static/static/img/tl-05.jpg",
+                    "credit":"",
+                    "caption":"<a href=\"/app-static/static/img/tl-05.jpg\" title=\"Đi tắm hồ với nhau\">Đi tắm hồ với nhau</a>"
+                }
+            },
+            {
+                "startDate":"2020,07,11,00,00,00",
+                "endDate":"2020,07,11,00,00,00",
+                "headline":"Chụp ảnh kỷ yếu với nhau",
+                "text":"Chụp ảnh kỷ yếu chung nè.</br>",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"/app-static/static/img/tl-06.jpg",
+                    "credit":"",
+                    "caption":"<a href=\"/app-static/static/img/tl-06.jpg\" title=\"Chụp ảnh kỷ yếu với nhau\">Chụp ảnh kỷ yếu với nhau</a>"
+                }
+            },
+            {
+                "startDate": "2020,07,13,00,00,00",
+                "endDate": "2020,07,13,00,00,00",
+                "headline": "Đi chơi cùng với lớp",
+                "text": "Hành trình tuổi học trò khép lại tại đây. Chúng ta cùng nhau bước sang một trang mới của cuộc đời với bao điều lạ lẫm. Từ nay, sẽ không còn cùng nhau đến trường mỗi sáng, không còn chờ đợi hay nhắc nhở nhau đi học, và cũng không còn được gặp nhau mỗi ngày như trước nữa.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-07.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-07.jpg\" title=\"Đi chơi cùng với lớp\">Đi chơi cùng với lớp</a>"
+                }
+            },
+            {
+                "startDate": "2021,01,01,00,00,00",
+                "endDate": "2021,01,01,00,00,00",
+                "headline": "Lần đầu ngắm pháo hoa cùng nhau",
+                "text": "Cùng nhau đón năm mới và ngắm pháo hoa với nhau.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-08.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-08.jpg\" title=\"Lần đầu ngắm pháo hoa cùng nhau\">Lần đầu ngắm pháo hoa cùng nhau</a>"
+                }
+            },
+            {
+                "startDate": "2021,02,15,00,00,00",
+                "endDate": "2021,02,15,00,00,00",
+                "headline": "Thêm 1 năm chúng ta có thể đón tết cùng nhau",
+                "text": "Sau 1 năm vất vả thích nghi mới môi trường mới. Anh đoán thế chứ không tìm thấy ảnh nào chụp chung với nhau trong năm nhất.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-09.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-09.jpg\" title=\"Thêm 1 năm chúng ta có thể đón tết cùng nhau\">Thêm 1 năm chúng ta có thể đón tết cùng nhau</a>"
+                }
+            },
+            {
+                "startDate": "2021,11,06,00,00,00",
+                "endDate": "2021,11,06,00,00,00",
+                "headline": "Hình này không nhớ sao về quê ở",
+                "text": "Hình như ở nhà học online tránh dịch</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-10.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-10.jpg\" title=\"Hình này không nhớ sao về quê ở\">Hình này không nhớ sao về quê ở</a>"
+                }
+            },
+            {
+                "startDate": "2021,11,16,00,00,00",
+                "endDate": "2021,11,16,00,00,00",
+                "headline": "Đón sinh nhật cùng em !",
+                "text": "Đón sinh nhật của em năm 18 + 1 tuổi.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-11.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-11.jpg\" title=\"Đón sinh nhật cùng em !\">Đón sinh nhật cùng em !</a>"
+                }
+            },
+            {
+                "startDate": "2022,02,06,00,00,00",
+                "endDate": "2022,02,06,00,00,00",
+                "headline": "Năm mới cùng em",
+                "text": "Năm thứ 3 đón năm mới cùng em. Sau 1 năm chống chọi với dịch bệnh thật may mắn khi chúng ta vẫn mạnh khoẻ.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-12.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-12.jpg\" title=\"Năm mới cùng em\">Năm mới cùng em</a>"
+                }
+            },
+            {
+                "startDate": "2022,03,08,00,00,00",
+                "endDate": "2022,03,08,00,00,00",
+                "headline": "Trở lại thành phố sau khi ăn tết",
+                "text": "Quay lại thành phố sau khi ăn tết.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-13.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-13.jpg\" title=\"Trở lại thành phố sau khi ăn tết\">Trở lại thành phố sau khi ăn tết</a>"
+                }
+            },
+            {
+                "startDate": "2022,03,08,00,00,00",
+                "endDate": "2022,03,08,00,00,00",
+                "headline": "Trở lại thành phố sau khi ăn tết",
+                "text": "Quay lại thành phố sau khi ăn tết. Thời kì hay đi la cà tới 2h mới về nè.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-13.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-13.jpg\" title=\"Trở lại thành phố sau khi ăn tết\">Trở lại thành phố sau khi ăn tết</a>"
+                }
+            },
+            {
+                "startDate": "2022,07,12,00,00,00",
+                "endDate": "2022,07,12,00,00,00",
+                "headline": "Lần đầu đi Vũng Tàu với nhau",
+                "text": "Lần đầu đi du lịch xa cùng em. Đi tiếp hông?</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-14.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-14.jpg\" title=\"Lần đầu đi Vũng Tàu với nhau\">Lần đầu đi Vũng Tàu với nhau</a>"
+                }
+            },
+            {
+                "startDate": "2022,07,12,00,00,00",
+                "endDate": "2022,07,12,00,00,00",
+                "headline": "Lần đầu đi Vũng Tàu với nhau",
+                "text": "Lần đầu đi du lịch xa cùng em. Đi tiếp hông?</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-14.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-14.jpg\" title=\"Lần đầu đi Vũng Tàu với nhau\">Lần đầu đi Vũng Tàu với nhau</a>"
+                }
+            },
+            {
+                "startDate": "2022,11,19,00,00,00",
+                "endDate": "2022,11,19,00,00,00",
+                "headline": "Năm nay đón sinh nhật trễ rồi",
+                "text": "Đón sinh nhật trễ một chút nhưng vẫn vui vẻ. Sinh nhật tuổi 18 + 2 của em</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-15.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-15.jpg\" title=\"Năm nay đón sinh nhật trễ rồi\">Năm nay đón sinh nhật trễ rồi</a>"
+                }
+            },
+            {
+                "startDate": "2023,01,21,00,00,00",
+                "endDate": "2023,01,21,00,00,00",
+                "headline": "Cùng em đón năm mới lần thứ 4",
+                "text": "Đây là lần thứ 4 chúng ta cùng nhau đón năm mới. Cùng em ngắm pháo hoa năm mới</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-16.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-16.jpg\" title=\"Cùng em đón năm mới lần thứ 4\">Cùng em đón năm mới lần thứ 4</a>"
+                }
+            },
+            {
+                "startDate": "2023,01,27,00,00,00",
+                "endDate": "2023,01,27,00,00,00",
+                "headline": "Đi du lịch năm mới cùng em",
+                "text": "Đi du lịch năm mới cùng em</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-17.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-17.jpg\" title=\"Đi du lịch năm mới cùng em\">Đi du lịch năm mới cùng em</a>"
+                }
+            },
+            {
+                "startDate": "2023,03,18,00,00,00",
+                "endDate": "2023,03,18,00,00,00",
+                "headline": "Lại la cà đêm khuya rồi",
+                "text": "Lại la cà đêm khuya rồi</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-18.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-18.jpg\" title=\"Lại la cà đêm khuya rồi\">Lại la cà đêm khuya rồi</a>"
+                }
+            },
+            {
+                "startDate": "2024,07,28,00,00,00",
+                "endDate": "2024,07,28,00,00,00",
+                "headline": "Dự lễ tốt nghiệp của em",
+                "text": "Hôm nay, em chính thức tốt nghiệp. Anh thật hạnh phúc khi được ở bên cạnh, chứng kiến khoảnh khắc quan trọng này. Một cột mốc khép lại chặng đường học tập, và mở ra hành trình mới đầy hy vọng phía trước.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-19.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-19.jpg\" title=\"Dự lễ tốt nghiệp của em\">Dự lễ tốt nghiệp của em</a>"
+                }
+            },
+            {
+                "startDate": "2024,12,07,00,00,00",
+                "endDate": "2024,12,07,00,00,00",
+                "headline": "Đi chơi giáng sinh",
+                "text": "Đi đây có được tính đi chơi giáng sinh không nhỉ?</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-20.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-20.jpg\" title=\"Đi chơi giáng sinh\">Đi chơi giáng sinh</a>"
+                }
+            },
+            {
+                "startDate": "2025,01,09,00,00,00",
+                "endDate": "2025,01,09,00,00,00",
+                "headline": "Em đến dự tốt nghiệp của anh",
+                "text": "Ngày anh tốt nghiệp. Giữa niềm vui và tự hào, có em ở cạnh khiến khoảnh khắc ấy càng trở nên trọn vẹn hơn.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-21.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-21.jpg\" title=\"Em đến dự tốt nghiệp của anh\">Em đến dự tốt nghiệp của anh</a>"
+                }
+            },
+            {
+                "startDate": "2025,01,31,00,00,00",
+                "endDate": "2025,01,31,00,00,00",
+                "headline": "Cùng em đón năm mới lần thứ 6",
+                "text": "Lại thêm một mùa xuân nữa trôi qua, đây đã là cái Tết thứ 6 chúng ta bên nhau.</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-22.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-22.jpg\" title=\"Cùng em đón năm mới lần thứ 6\">Cùng em đón năm mới lần thứ 6</a>"
+                }
+            },
+            {
+                "startDate": "2025,03,23,00,00,00",
+                "endDate": "2025,03,23,00,00,00",
+                "headline": "Đi chơi công viên nước cùng nhau",
+                "text": "Đi công viên nước cùng em</br>",
+                "tag": "",
+                "classname": "",
+                "asset": {
+                    "media": "/app-static/static/img/tl-23.jpg",
+                    "credit": "",
+                    "caption": "<a href=\"/app-static/static/img/tl-23.jpg\" title=\"Đi chơi công viên nước cùng nhau\">Đi chơi công viên nước cùng nhau</a>"
+                }
+            },
+            {
+                "startDate":"2025,07,12,00,00,00",
+                "endDate":"2025,07,12,00,00,00",
+                "headline":"Kỷ niệm 6 năm yêu nhau",
+                "text":"Em yêu, vậy là chúng ta đã cùng nhau đi qua 6 năm – một hành trình không quá dài, nhưng đủ để chứa đựng biết bao kỷ niệm ngọt ngào và yêu thương.</br>Mỗi khoảnh khắc bên em đều trở thành điều quý giá trong tim anh, từ những ngày đầu ngại ngùng cho đến hôm nay, khi tình yêu đã thêm phần bền chặt.</br>Anh chỉ mong có thể tiếp tục nắm tay em đi qua những chặng đường sắp tới, cùng nhau viết tiếp câu chuyện tình yêu của riêng chúng ta.</br>6 năm chỉ là khởi đầu, còn cả một đời anh muốn dành để yêu em.</br>Em yêu, anh yêu em.",
+                "tag":"",
+                "classname":"",
+                "asset": {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}

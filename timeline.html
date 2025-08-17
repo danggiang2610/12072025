@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Câu chuyện của anh và em</title>
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<style>html, body {height:100%;padding: 0px;    margin: 0px;    }   </style>
+<script type="text/javascript" src="build/js/jquery.min.js"></script>
+</head>
+<body>
+  <div id="timeline-embed"></div>
+  <script type="text/javascript" src="build/js/storyjs-embed.js"></script>
+  <script type="text/javascript">
+    $(function () {
+    $.getJSON("/app-static/static/data/story.json")
+      .done(function (data) {
+        const start = new Date("2019-07-12T00:00:00+07:00");
+
+        const end = new Date();
+
+        const ms = end.getTime() - start.getTime();
+        const day = Math.floor(ms / 86400000);
+        const hour = Math.floor(ms / 3600000);
+
+        let month = (end.getFullYear() - start.getFullYear()) * 12 +
+                    (end.getMonth() - start.getMonth());
+        if (end.getDate() < start.getDate()) month -= 1;
+
+        const startStr = `${start.getDate()}.${start.getMonth() + 1}.${start.getFullYear()}`;
+        const endStr   = `${end.getDate()}.${end.getMonth() + 1}.${end.getFullYear()}`;
+        data.timeline.text =
+          `${startStr} - ${endStr}<br>` +
+          `${day} ngày<br>` +
+          `Chúng ta đã đi cùng nhau!`;
+
+        createStoryJS({
+          width: "100%",
+          height: "100%",
+          source: data,
+          lang: "en",
+          debug: true
+        });
+      })
+      .fail(function (xhr) {
+        console.error("Không tải được story.json:", xhr.status, xhr.statusText);
+      });
+  });
+  </script>
+  </body>
+</html>
