@@ -123,14 +123,21 @@ HTMLActuator.prototype.message = function (won) {
 
   this.messageContainer.classList.add(type);
   this.messageContainer.getElementsByTagName("p")[0].textContent = message;
-  if (won)
-  {
+  if (won) {
     var retryBtn = this.messageContainer
       .getElementsByClassName("lower")[0]
       .getElementsByClassName("retry-button")[0];
 
     retryBtn.textContent = 'Đi tiếp thôi nào';
     retryBtn.setAttribute("href", "/12072025/timeline.html");
+
+    // Bắt cả touchend lẫn click cho chắc trên iOS/Android
+    const go = (e) => {
+      if (e) { e.preventDefault(); e.stopPropagation(); }
+      window.location.assign('/12072025/timeline.html');
+    };
+    retryBtn.addEventListener('touchend', go, { passive: false });
+    retryBtn.addEventListener('click', go, false);
   }
 
   //this.clearContainer(this.sharingContainer);

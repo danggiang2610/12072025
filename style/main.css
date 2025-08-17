@@ -697,3 +697,13 @@ hr {
     opacity: 1;
     top: -45px;
     pointer-events: auto; }
+
+  .retry-button {
+    pointer-events: auto !important;
+    z-index: 99999 !important;
+    display: inline-block !important;
+  }
+
+  canvas, .tile-container, .overlay {
+    pointer-events: none !important;
+  }
