@@ -84,8 +84,13 @@
         var btn = document.getElementById("run-button");
         if (btn) btn.click();
       }
+      if (location.hash === "#dauhang") {
+      var controls = document.querySelector(".controls");
+        if (controls) {
+          controls.style.display = "block";
+        }
+      }
     });
-
     document.addEventListener('DOMContentLoaded', function () {
       var board = document.querySelector('.game-container');
       var hamm = Hammer(board, {
