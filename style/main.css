@@ -187,9 +187,7 @@ hr {
       background: rgba(237, 194, 46, 0.5);
       color: #f9f6f2; }
     .game-container .game-message.game-won, .game-container .game-message.game-over {
-      display: flex;
-      flex-direction: column;
-    }
+      display: block; }
 
 .grid-container {
   position: absolute;
@@ -506,7 +504,6 @@ hr {
       -webkit-animation-fill-mode: both;
       -moz-animation-fill-mode: both; }
       .game-container .game-message p {
-        font-family: "sans-serif";
         font-size: 60px;
         font-weight: bold;
         height: 60px;
@@ -516,7 +513,6 @@ hr {
         display: block;
         margin-top: 59px; }
       .game-container .game-message a {
-        font-family: "sans-serif";
         display: inline-block;
         background: #8f7a66;
         border-radius: 3px;
@@ -534,8 +530,7 @@ hr {
         background: rgba(237, 194, 46, 0.5);
         color: #f9f6f2; }
       .game-container .game-message.game-won, .game-container .game-message.game-over {
-        display: flex;
-        flex-direction: column; } }
+        display: block; }
 
   .grid-container {
     position: absolute;
