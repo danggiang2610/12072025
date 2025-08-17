@@ -87,6 +87,27 @@
         }
       }
     });
+    document.addEventListener('DOMContentLoaded', function () {
+      var board = document.querySelector('.game-container');
+
+      // Hammer v1.x – truyền options để khoá trục & chặn cuộn
+      var hamm = Hammer(board, {
+        prevent_default: true,         // gọi preventDefault cho touch
+        drag_lock_to_axis: true,       // khoá trục theo hướng vuốt mạnh hơn
+        drag_block_horizontal: true,   // chặn cuộn ngang
+        drag_block_vertical: true,     // chặn cuộn dọc (mobile)
+        swipe_velocity: 0.2,           // hạ ngưỡng để swipe dễ ăn hơn
+        drag_min_distance: 10          // bớt “dính” khi bắt đầu kéo
+      });
+
+      // map swipe -> move của 2048 (0=up,1=right,2=down,3=left)
+      var input = window.inputManager || new KeyboardInputManager();
+      hamm.on('swipeleft',  function(){ input.emit('move', 3); });
+      hamm.on('swiperight', function(){ input.emit('move', 1); });
+      hamm.on('swipeup',    function(){ input.emit('move', 0); });
+      hamm.on('swipedown',  function(){ input.emit('move', 2); });
+    });
+
   </script>
 </body>
 </html>
